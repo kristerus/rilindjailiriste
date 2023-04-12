@@ -14,7 +14,7 @@ const about = () => {
 We do not hate or discriminate against anyone based on their ethnicity as well.
 The origin of the name for our ideology 'Illyrism' is simple. It is called Illyrism as a way to connect with our ancestors, the Illyrians.</h3>
     " />
-        <link rel="icon" href="/Llogo.png" />
+        <link rel="icon" href="/public/Llogo.png" />
       </Head>
       <Navbar/>
 <div className='aboutus'>
