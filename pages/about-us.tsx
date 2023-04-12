@@ -34,9 +34,9 @@ The origin of the name for our ideology 'Illyrism' is simple. It is called Illyr
   <Image src="/../public/Llogo.png" alt="" width="300" height="300" id="aboutimage"></Image>  </div>
     <div className='rightSide'>
       <h1 className='aboutsubtitle'>Our Ideology</h1>
-      <h3 className='p'>Our ideology is called Illyrism, which is a mixture of Patriotism, Social Conservatism and the protection of Albanian interests and the Albanian people's rights. We do not condone any calls for genocide, or any far-right or far-left ideologies such as Nazism, Fascism and Communism.
+      <h3 className='p'>Our ideology is called Illyrism, which is a mixture of Patriotism, Social Conservatism and the protection of Albanian interests and the Albanian people&apos;s rights. We do not condone any calls for genocide, or any far-right or far-left ideologies such as Nazism, Fascism and Communism.
 We do not hate or discriminate against anyone based on their ethnicity as well.
-The origin of the name for our ideology 'Illyrism' is simple. It is called Illyrism as a way to connect with our ancestors, the Illyrians.</h3>
+The origin of the name for our ideology &apos;Illyrism&apos; is simple. It is called Illyrism as a way to connect with our ancestors, the Illyrians.</h3>
     </div>
   </div>
   <div className='whorwe'>

@@ -14,7 +14,8 @@ export default function Home() {
         <meta name="description" content="RKI is a political group, with intentions to spread Albanian Patriotism all across Albania, Kosovo and the Diaspora. Our ideology is called Illyrism, which is a mixture of Patriotism, Social Conservatism and the protection of Albanian interests and the Albanian people's rights. We do not condone any calls for genocide, or any far-right or far-left ideologies such as Nazism, Fascism and Communism.
 We do not hate or discriminate against anyone based on their ethnicity as well.
 The origin of the name for our ideology 'Illyrism' is simple. It is called Illyrism as a way to connect with our ancestors, the Illyrians.</h3>
-    " />        <link rel="icon" href="/Llogo.png" />
+    " />
+    <link rel="shortcut icon" href="Llogo.png" type="image/x-icon" />
       </Head>
       <main className="main">
         <Navbar />
