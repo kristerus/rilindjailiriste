@@ -30,7 +30,7 @@ The origin of the name for our ideology 'Illyrism' is simple. It is called Illyr
   </div>
   <div className='whorwe'>
   <div className="leftside">
-  <Image src={"/../public/Llogo.png"}alt="" width="300" height="300" id="aboutimage"></Image>  </div>
+  <Image src="/../public/Llogo.png" alt="" width="300" height="300" id="aboutimage"></Image>  </div>
     <div className='rightSide'>
       <h1 className='aboutsubtitle'>Our Ideology</h1>
       <h3 className='p'>Our ideology is called Illyrism, which is a mixture of Patriotism, Social Conservatism and the protection of Albanian interests and the Albanian people&apos;s rights. We do not condone any calls for genocide, or any far-right or far-left ideologies such as Nazism, Fascism and Communism.

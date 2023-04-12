@@ -22,7 +22,7 @@ The origin of the name for our ideology 'Illyrism' is simple. It is called Illyr
         <div className='first'>
           <div className='shitter'>
             <h1 style={{ textAlign: "center", margin: "20px" }} id="maintitle">Rilindja Kombëtare Iliriste</h1>
-            <Image src="/Llogo.png" width="200" height="200" alt="logo" id="ufit" />
+            <Image src="public/Llogo.png" width="200" height="200" alt="logo" id="ufit" />
           </div>
         </div>
         <div className='love'>
