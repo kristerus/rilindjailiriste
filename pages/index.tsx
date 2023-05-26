@@ -25,24 +25,7 @@ The origin of the name for our ideology 'Illyrism' is simple. It is called Illyr
             <Image src="/Llogo.png" width="200" height="200" alt="logo" id="ufit" />
           </div>
         </div>
-        <div className='love'>
-          <div className='leftside'>
-          <h1 className='maintitle'>Why We Love Albania?</h1>
-          <ul className='p'>
-            <li>Albania has a rich and diverse history that spans thousands of years, from the Illyrian and Roman periods to the Ottoman and communist eras.</li>
-            <li> Albania boasts breathtaking natural scenery, including stunning mountain ranges, pristine beaches, and crystal-clear lakes, making it a popular destination for outdoor enthusiasts and nature lovers.</li>
-            <li>Albanian culture is unique and vibrant, with a rich tradition of music, dance, cuisine, and art that reflects its complex history and diverse influences.</li>
-            <li> Albanians are known for their hospitality, warmth, and generosity, making it easy for visitors to feel welcome and at home in their country.</li>
-            <li>Albania is a rapidly developing nation that is making significant strides in areas such as education, healthcare, and technology, offering its citizens and visitors a promising future.</li>
-          </ul>
-          </div>
-          
-          <div className="rightside">
-<Image src="/krenar.png" width="350" height="250" alt=""></Image>          
-</div>
-        </div>
-
-
+       
         <div className='prices'>
           <h1 className='pricesTitle'> Learn More About Us!</h1>
           <div className='suggestions'>
