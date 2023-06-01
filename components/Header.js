@@ -8,7 +8,7 @@ export const Navbar = () => {
             <div className="firstNavbar">
                 <Link href="/">
                     <div className="leftNavSection">
-                        <Link href="/"><Image src="/Llogo.png" width="70" height="70" alt="logo" className="navimg" /></Link>
+                        <Link href="/"><Image src="/Llogo.PNG" width="70" height="70" alt="logo" className="navimg" /></Link>
 
                         <h2>
                             <Link href="/" className="link">Rilindja Kombëtare Iliriste</Link>
@@ -40,7 +40,7 @@ export const Navbar = () => {
                     </label>
 
                     <ul className="menu__box">
-                        <div className="menu-logo"> <Link href="/"><Image src="/Llogo.png" width="70" height="70" alt="logo" /></Link></div>
+                        <div className="menu-logo"> <Link href="/"><Image src="/Llogo.PNG" width="70" height="70" alt="logo" /></Link></div>
 
                         <Link href="/"className="menu__item">Home</Link>
                         <Link href="/about-us"className="menu__item">About Us</Link>
