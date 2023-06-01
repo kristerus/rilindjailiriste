@@ -26,11 +26,11 @@ The origin of the name for our ideology 'Illyrism' is simple. It is called Illyr
       <h3 className='p'>RKI is a political group, with intentions to spread Albanian Patriotism all across Albania, Kosovo and the Diaspora.</h3>
     </div>
     <div className='rightSide'>
-    <Image src="/../public/image_6487327(2).JPG" alt="" width="320" height="400" id="aboutimage"></Image>    </div>
+    <Image src="/image_6487327(2).JPG" alt="" width="320" height="400" id="aboutimage"></Image>    </div>
   </div>
   <div className='whorwe'>
   <div className="leftside">
-  <Image src="/../public/Llogo.png" alt="" width="300" height="300" id="aboutimage"></Image>  </div>
+  <Image src="/Llogo.PNG" alt="" width="300" height="300" id="aboutimage"></Image>  </div>
     <div className='rightSide'>
       <h1 className='aboutsubtitle'>Our Ideology</h1>
       <h3 className='p'>Our ideology is called Illyrism, which is a mixture of Patriotism, Social Conservatism and the protection of Albanian interests and the Albanian people&apos;s rights. We do not condone any calls for genocide, or any far-right or far-left ideologies such as Nazism, Fascism and Communism.
@@ -45,7 +45,7 @@ The origin of the name for our ideology &apos;Illyrism&apos; is simple. It is ca
 
     </div>
     <div className='rightSide'>
-    <Image src="/../public/image_6487327(1).JPG" alt="" width="320" height="400" id="aboutimage">
+    <Image src="/image_6487327(1).JPG" alt="" width="320" height="400" id="aboutimage">
 
     </Image>
 
