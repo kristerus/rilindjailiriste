@@ -294,7 +294,7 @@ h2 .link:hover {
     align-items: center;
     justify-content: center;
     flex-direction: column;
-    background: url("../public/contactbg1.png");
+    background: url("/contactbg1.png");
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -310,7 +310,7 @@ h2 .link:hover {
 
 @media screen and (max-width:1150px) {
     .form {
-        background: url("../public/contactbg.png");
+        background: url("/contactbg.png");
         background-position: center;
         background-size: cover;
         background-repeat: no-repeat;
@@ -380,7 +380,7 @@ h2 .link:hover {
     align-items: center;
     justify-content: center;
     flex-direction: column;
-    background: url("../public/supportbg.png");
+    background: url("/supportbg.png");
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
@@ -486,7 +486,7 @@ h2 .link:hover {
 }
 
 .entry {
-    background: url("../public/IMG-0107.png");
+    background: url("/IMG-0107.png");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -502,7 +502,7 @@ h2 .link:hover {
 }
 
 .first {
-    background: url("../public/skanderbeg.png");
+    background: url("/skanderbeg.png");
     background-position: cover;
     background-repeat: no-repeat;
     background-size: cover;
